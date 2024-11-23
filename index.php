@@ -38,21 +38,24 @@
     <?php include 'components/about.php'; ?>
     <!-- /About Section -->
 
+    <!-- Blog Posts Section -->
+    <?php include 'components/blog-posts.php'; ?>
+    <!-- /Blog Posts Section -->
+
+
     <!-- About 2 Section -->
     <?php include 'components/about-2.php'; ?>
     <!-- /About 2 Section -->
+     
 
     <!-- Services Section -->
     <?php include 'components/services.php'; ?>
     <!-- /Services Section -->
 
+
     <!-- Stats Section -->
     <?php include 'components/stats.php'; ?>
     <!-- /Stats Section -->
-
-    <!-- Blog Posts Section -->
-    <?php include 'components/blog-posts.php'; ?>
-    <!-- /Blog Posts Section -->
 
     <!-- Tabs Section -->
     <?php include 'components/tabs.php'; ?>
