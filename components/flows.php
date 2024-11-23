@@ -39,7 +39,7 @@
             </div>
             <div class="col-lg-4 order-lg-1">
                 <h1 class="mb-4" data-aos="fade-up">
-                    จุดเด่นของ aitracker
+                    aitracker
                 </h1>
                 <p data-aos="fade-up">
                     1. ปุ่ม SOS ตรงกลางง่ายต่อการกด ใช้งานการขอความช่วยเหลือ(SOS) <br>

@@ -36,19 +36,20 @@
 
   <main class="main">
 
-    <!-- About Section -->
+    <!--  Section 1-->
     <?php include 'components/about.php'; ?>
-    <!-- /About Section -->
+    <!-- /Section 1 -->
 
-    <!-- Blog Posts Section -->
+    <!-- Section 2 Services-->
     <?php include 'components/blog-posts.php'; ?>
-    <!-- /Blog Posts Section -->
+    <!-- /Section 2 Services-->
 
 
-    <!-- About 2 Section -->
+    <!-- Section 3 Command Details -->
     <?php include 'components/about-2.php'; ?>
-    <!-- /About 2 Section -->
+    <!-- /Section 3 Command Details -->
 
+    
     <!-- About Section -->
     <?php include 'components/flows.php'; ?>
     <!-- /About Section -->
@@ -57,6 +58,8 @@
     <!-- Services Section -->
     <?php include 'components/services.php'; ?>
     <!-- /Services Section -->
+
+
 
     <!-- Stats Section -->
     <?php include 'components/stats.php'; ?>
