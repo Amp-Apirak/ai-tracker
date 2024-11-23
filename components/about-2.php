@@ -14,15 +14,13 @@
                 <div class="offset-md-0 offset-lg-1 col-sm-12 col-md-5 col-lg-5 col-xl-4" data-aos="fade-up">
                     <div class="px-3">
                         <h2 class="content-title text-start">
-                            แพลตฟอร์มดูแลเฝ้าระวังการพลัดตกหกล้มในผู้สูงอายุ
+                            ศูนย์เฝ้าระวังเหตุฉุกเฉินให้บริการ 24 ชั่วโมง
                         </h2>
                         <p class="lead">
-                            A small river named Duden flows by their place and supplies it
-                            with the necessary regelialia. It is a paradisematic country.
+                            บริการระบบเฝ้าระวังและแจ้งเตือนเหตุการณ์ตลอด 24 ชั่วโมง ติดตามสถานการณ์และบันทึกการตรวจสอบเหตุการณ์ผ่านระบบ
                         </p>
                         <p class="mb-5">
-                            The Big Oxmox advised her not to do so, because there were
-                            thousands of bad Commas, wild Question Marks and devious Semikoli.
+                            เมื่อได้รับการแจ้งเตือนขอความช่วยเหลือ ระบบ 24/7 Care Center จะระบุตำแหน่งที่ชัดเจนไม่ว่าจะผังภายในที่พักอาศัยหรือพิกัด GPS และแสดงข้อมูลรายละเอียดของผู้ที่ขอความช่วยเหลือมายัง หน้า Dashboard ในห้อง 24/7 Care Center
                         </p>
                         <p>
                             <a href="#" class="btn-get-started">Get Started</a>
