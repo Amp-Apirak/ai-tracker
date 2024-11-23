@@ -18,8 +18,7 @@
                         </div>
                         <h3><a href="#">ศูนย์เฝ้าระวังเหตุการณ์ให้บริการ 24 ชั่วโมง</a></h3>
                         <p>
-                            Far far away, behind the word mountains, far from the countries
-                            Vokalia and Consonantia, there live the blind texts.
+                            บริการระบบเฝ้าระวังและแจ้งเตือนเหตุการณ์ตลอด 24 ชั่วโมง ติดตามสถานการณ์และบันทึกการตรวจสอบเหตุการณ์ผ่านระบบ
                         </p>
 
                     </div>
