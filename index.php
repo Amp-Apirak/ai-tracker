@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>DoCare - Caring for the Elderly</title>
+  <title>P-Care - Caring for the Elderly</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 

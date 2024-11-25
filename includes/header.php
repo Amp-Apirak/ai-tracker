@@ -12,7 +12,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
   <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
     <a href="index.php?lang=<?php echo $lang; ?>" class="logo d-flex align-items-center">
-      <h1 class="sitename">DoCare</h1>
+      <h1 class="sitename">P-Care</h1>
     </a>
 
     <nav id="navmenu" class="navmenu">
