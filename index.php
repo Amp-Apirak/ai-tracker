@@ -40,6 +40,10 @@
     <?php include 'components/about.php'; ?>
     <!-- /Section 1 -->
 
+    <!--  Section 1-->
+    <?php include 'components/video.php'; ?>
+    <!-- /Section 1 -->
+
     <!-- Section 2 Services-->
     <?php include 'components/blog-posts.php'; ?>
     <!-- /Section 2 Services-->
@@ -49,7 +53,7 @@
     <?php include 'components/about-2.php'; ?>
     <!-- /Section 3 Command Details -->
 
-    
+
     <!-- About Section -->
     <?php include 'components/flows.php'; ?>
     <!-- /About Section -->
