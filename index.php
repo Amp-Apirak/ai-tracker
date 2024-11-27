@@ -28,6 +28,7 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
+
 </head>
 
 <body class="index-page">
@@ -35,10 +36,8 @@
   <?php include 'includes/header.php'; ?>
 
   <main class="main">
-
     <!--  Section: Information -->
     <section id="information" class="information section">
-
       <div class="container">
         <div class="row align-items-center justify-content-between">
           <div class="col-lg-7 mb-5 mb-lg-0 order-lg-2" data-aos="fade-up" data-aos-delay="400">
