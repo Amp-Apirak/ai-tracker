@@ -717,7 +717,7 @@ section,
 /*--------------------------------------------------------------
 # Information Section
 --------------------------------------------------------------*/
-.information .btn-get-started {
+.btn-get-started {
   background-color: var(--accent-color);
   color: var(--contrast-color);
   border-radius: 30px;
@@ -727,7 +727,7 @@ section,
   font-size: 14px;
 }
 
-.information .btn-get-started:hover {
+.btn-get-started:hover {
   border-color: var(--accent-color);
   background-color: transparent;
   color: var(--accent-color);

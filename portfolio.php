@@ -37,11 +37,11 @@
     <!-- Page Title -->
     <div class="page-title light-background">
       <div class="container">
-        <h1>Portfolio</h1>
+        <h1>โปรไฟล์ของเรา</h1>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li class="current">Portfolio</li>
+            <li class="current">โปรไฟล์ของเรา</li>
           </ol>
         </nav>
       </div>
@@ -55,10 +55,11 @@
         <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
 
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Card</li>
-            <li data-filter=".filter-branding">Web</li>
+            <li data-filter="*" class="filter-active">ทั้งหมด</li>
+            <li data-filter=".filter-app">หน่วยงานที่ใช้บริการ</li>
+            <li data-filter=".filter-product">อบรบการใช้งานเจ้าหน้าที่</li>
+            <li data-filter=".filter-branding">อบรมการใช้งานผู้รับบริการ</li>
+            <li data-filter=".filter-branding">ลงพื้นที่</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
