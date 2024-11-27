@@ -105,7 +105,7 @@
 
 
     <!--  Section Video -->
-    <section id="emergency-system" class="video-section">
+    <section id="emergency-system" class="emergency-system section">
       <div class="container">
         <div class="content">
           <div class="row">

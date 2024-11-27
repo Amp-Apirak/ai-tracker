@@ -136,6 +136,7 @@ h6 {
 /*--------------------------------------------------------------
   # Global Header
   --------------------------------------------------------------*/
+
 .header {
   color: var(--default-color);
   background-color: var(--background-color);
@@ -728,41 +729,39 @@ section,
     font-size: 14px;
   }
 
-   .btn-get-started:hover {
+  .btn-get-started:hover {
     border-color: var(--accent-color);
     background-color: transparent;
     color: var(--accent-color);
   }
 
-   h1 {
+  h1 {
     color: var(--heading-color);
     font-size: 30px;
   }
 
-   p {
+  p {
     line-height: 1.7;
     color: var(--default-color);
   }
 
-   .swiper-pagination {
+  .swiper-pagination {
     position: absolute;
     bottom: 30px;
   }
 
-   .swiper-pagination .swiper-pagination-bullet {
+  .swiper-pagination .swiper-pagination-bullet {
     margin: 0 5px;
     background: #ffffff;
     opacity: 0.3;
   }
 
-  
-    .swiper-pagination
-    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
     background: var(--accent-color);
     opacity: 1;
   }
 
-   .section-subtitle {
+  .section-subtitle {
     font-size: 15px;
     margin-bottom: 10px;
     display: block;
@@ -770,4 +769,292 @@ section,
   }
 }
 
+/*--------------------------------------------------------------
+# Section Video Styles
+--------------------------------------------------------------*/
+.emergency-system {
+  .full-width-video {
+    width: 850px;
+    height: 450px;
+    margin: 0 auto;
+    /* กึ่งกลางในแนวนอน */
+  }
 
+  .video-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+/*--------------------------------------------------------------
+# Section Our-service
+--------------------------------------------------------------*/
+.our-service {
+  .title-wrap {
+    padding-bottom: 30px;
+  }
+
+  .content-subtitle {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+    color: var(--default-color);
+  }
+
+  .content-title {
+    color: var(--heading-color);
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+
+  .post-entry .thumb {
+    margin-bottom: 20px;
+  }
+
+  .post-entry .thumb img {
+    transition: 0.3s all ease;
+  }
+
+  .post-entry .thumb:hover img {
+    opacity: 0.8;
+  }
+
+  .post-entry .meta {
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+
+  .post-entry .meta .cat {
+    text-transform: uppercase;
+    font-weight: normal;
+    color: var(--heading-color);
+  }
+
+  .post-entry .meta .date {
+    color: color-mix(in srgb, var(--default-color), transparent 25%);
+  }
+
+  .post-entry .post-content {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .post-entry .post-content h3 {
+    font-size: 18px;
+    line-height: 1.2;
+  }
+
+  .post-entry .post-content h3 a {
+    color: var(--heading-color);
+  }
+
+  .post-entry .post-content h3 a:hover {
+    color: var(--accent-color);
+  }
+
+  .author .pic {
+    flex: 0 0 50px;
+    margin-right: 20px;
+  }
+
+  .author .author-name {
+    line-height: 1.3;
+  }
+
+  .author .author-name strong {
+    color: var(--heading-color);
+    font-weight: normal;
+  }
+
+  .author .author-name span {
+    font-size: 14px;
+    color: color-mix(in srgb, var(--default-color), transparent 25%);
+  }
+}
+
+/*--------------------------------------------------------------
+# Section command
+--------------------------------------------------------------*/
+.command {
+  .content {
+    background-color: var(--surface-color);
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .content-subtitle {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+    color: var(--default-color);
+  }
+
+  .content-title {
+    color: var(--heading-color);
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+
+  p {
+    line-height: 1.7;
+    color: var(--default-color);
+  }
+
+  .btn-get-started {
+    background-color: var(--accent-color);
+    color: var(--contrast-color);
+    border-radius: 30px;
+    padding: 8px 30px;
+    border: 2px solid transparent;
+    transition: 0.3s all ease-in-out;
+    font-size: 14px;
+  }
+
+  .btn-get-started:hover {
+    border-color: var(--accent-color);
+    background-color: transparent;
+    color: var(--accent-color);
+  }
+
+  .lead {
+    line-height: 1.6;
+    font-size: 18px;
+    font-weight: normal;
+    color: var(--default-color);
+  }
+}
+
+/*--------------------------------------------------------------
+# Section Process
+--------------------------------------------------------------*/
+.process {
+  .btn-get-started {
+    background-color: var(--accent-color);
+    color: var(--contrast-color);
+    border-radius: 30px;
+    padding: 8px 30px;
+    border: 2px solid transparent;
+    transition: 0.3s all ease-in-out;
+    font-size: 14px;
+  }
+
+  .btn-get-started:hover {
+    border-color: var(--accent-color);
+    background-color: transparent;
+    color: var(--accent-color);
+  }
+
+  h1 {
+    color: var(--heading-color);
+    font-size: 30px;
+  }
+
+  p {
+    line-height: 1.7;
+    color: var(--default-color);
+  }
+
+  .swiper-pagination {
+    position: absolute;
+    bottom: 30px;
+  }
+
+  .swiper-pagination .swiper-pagination-bullet {
+    margin: 0 5px;
+    background: #ffffff;
+    opacity: 0.3;
+  }
+
+  .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background: var(--accent-color);
+    opacity: 1;
+  }
+
+  .section-subtitle {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+    color: var(--default-color);
+  }
+}
+
+/*--------------------------------------------------------------
+# Section Goods-device
+--------------------------------------------------------------*/
+.goods-device {
+  .btn-get-started {
+    background-color: var(--accent-color);
+    color: var(--contrast-color);
+    border-radius: 30px;
+    padding: 8px 30px;
+    border: 2px solid transparent;
+    transition: 0.3s all ease-in-out;
+    font-size: 14px;
+  }
+
+  .btn-get-started:hover {
+    border-color: var(--accent-color);
+    background-color: transparent;
+    color: var(--accent-color);
+  }
+
+  h1 {
+    color: var(--heading-color);
+    font-size: 30px;
+  }
+
+  p {
+    line-height: 1.7;
+    color: var(--default-color);
+  }
+
+  .swiper-pagination {
+    position: absolute;
+    bottom: 30px;
+  }
+
+  .swiper-pagination .swiper-pagination-bullet {
+    margin: 0 5px;
+    background: #ffffff;
+    opacity: 0.3;
+  }
+
+  .goods-device
+    .swiper-pagination
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background: var(--accent-color);
+    opacity: 1;
+  }
+
+  .section-subtitle {
+    font-size: 15px;
+    margin-bottom: 10px;
+    display: block;
+    color: var(--default-color);
+  }
+}
+
+/*--------------------------------------------------------------
+# Section Option-device
+--------------------------------------------------------------*/
+.services {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.services .services-item .services-icon {
+  color: var(--accent-color);
+  margin-bottom: 20px;
+}
+
+.services .services-item .services-icon i {
+  font-size: 48px;
+}
+
+.services .services-item h3 {
+  font-size: 17px;
+  font-weight: 400;
+  color: var(--heading-color);
+}
