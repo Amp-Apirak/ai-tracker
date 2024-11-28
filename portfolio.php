@@ -59,7 +59,7 @@
             <li data-filter=".filter-app">หน่วยงานที่ใช้บริการ</li>
             <li data-filter=".filter-product">อบรบการใช้งานเจ้าหน้าที่</li>
             <li data-filter=".filter-branding">อบรมการใช้งานผู้รับบริการ</li>
-            <li data-filter=".filter-branding">ลงพื้นที่</li>
+            <li data-filter=".filter-installation">ลงพื้นที่</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -134,67 +134,199 @@
               </div>
             </div><!-- End Portfolio Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <img src="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" class="img-fluid" alt="">
+
+            <!---------------------------------------------------- 
+            #อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ
+            ------------------------------------------------------>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/masonry-portfolio/P1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Product 1</h4>
-                <p>Lorem ipsum, dolor sit</p>
-                <a href="assets/img/masonry-portfolio/masonry-portfolio-2.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ</h4>
+                <p>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ เทศบาลตำบลปากท่อ จ.ราชบุรี</p>
+                <a href="assets/img/masonry-portfolio/P1.jpg" title="อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/masonry-portfolio/P2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Branding 1</h4>
-                <p>Lorem ipsum, dolor sit</p>
-                <a href="assets/img/masonry-portfolio/masonry-portfolio-3.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <img src="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Product 2</h4>
-                <p>Lorem ipsum, dolor sit</p>
-                <a href="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ</h4>
+                <p>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ เทศบาลตำบลปากท่อ จ.ราชบุรี</p>
+                <a href="assets/img/masonry-portfolio/P2.jpg" title="อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/masonry-portfolio/P3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Branding 2</h4>
-                <p>Lorem ipsum, dolor sit</p>
-                <a href="assets/img/masonry-portfolio/masonry-portfolio-6.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div><!-- End Portfolio Item -->
-
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <img src="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Product 3</h4>
-                <p>Lorem ipsum, dolor sit</p>
-                <a href="assets/img/masonry-portfolio/masonry-portfolio-8.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ</h4>
+                <p>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ เทศบาลตำบลปากท่อ จ.ราชบุรี</p>
+                <a href="assets/img/masonry-portfolio/P3.jpg" title="อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/masonry-portfolio/P4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Branding 3</h4>
-                <p>Lorem ipsum, dolor sit</p>
-                <a href="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ</h4>
+                <p>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ เทศบาลตำบลปากท่อ จ.ราชบุรี</p>
+                <a href="assets/img/masonry-portfolio/P4.jpg" title="อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/masonry-portfolio/P5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ</h4>
+                <p>อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ เทศบาลตำบลปากท่อ จ.ราชบุรี</p>
+                <a href="assets/img/masonry-portfolio/P5.jpg" title="อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <!---------------------------------------------------- 
+            #อบรมการใช้งานอุปกรณ์ AITRACKER ให้กับผู้รับบริการ
+            ------------------------------------------------------>
+
+            <!---------------------------------------------------- 
+            #ลงพื้นที่ติดตั้ง 
+            ------------------------------------------------------>
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-installation">
+              <img src="assets/img/masonry-portfolio/B1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน</h4>
+                <p>องค์การบริหารส่วนตำบลบ่อวิน (อบต. บ่อวิน) อำเภอศรีราชา จังหวัดชลบุรี</p>
+                <a href="assets/img/masonry-portfolio/B1.jpg" title="ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-installation">
+              <img src="assets/img/masonry-portfolio/B2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน</h4>
+                <p>องค์การบริหารส่วนตำบลบ่อวิน (อบต. บ่อวิน) อำเภอศรีราชา จังหวัดชลบุรี</p>
+                <a href="assets/img/masonry-portfolio/B2.jpg" title="ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-installation">
+              <img src="assets/img/masonry-portfolio/B3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน</h4>
+                <p>องค์การบริหารส่วนตำบลบ่อวิน (อบต. บ่อวิน) อำเภอศรีราชา จังหวัดชลบุรี</p>
+                <a href="assets/img/masonry-portfolio/B3.jpg" title="ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-installation">
+              <img src="assets/img/masonry-portfolio/B4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน</h4>
+                <p>องค์การบริหารส่วนตำบลบ่อวิน (อบต. บ่อวิน) อำเภอศรีราชา จังหวัดชลบุรี</p>
+                <a href="assets/img/masonry-portfolio/B4.jpg" title="ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-installation">
+              <img src="assets/img/masonry-portfolio/B5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน</h4>
+                <p>องค์การบริหารส่วนตำบลบ่อวิน (อบต. บ่อวิน) อำเภอศรีราชา จังหวัดชลบุรี</p>
+                <a href="assets/img/masonry-portfolio/B5.jpg" title="ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-installation">
+              <img src="assets/img/masonry-portfolio/B6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน</h4>
+                <p>องค์การบริหารส่วนตำบลบ่อวิน (อบต. บ่อวิน) อำเภอศรีราชา จังหวัดชลบุรี</p>
+                <a href="assets/img/masonry-portfolio/B6.jpg" title="ลงพื้นที่ติดตั้ง เทศบาลบ่อวิน" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <!---------------------------------------------------- 
+            /ลงพื้นที่ติดตั้ง 
+            ----------------------------------------------------->
+
+
+            <!---------------------------------------------------- 
+            #อบรมการใช้งานเจ้าหน้าที่
+            ------------------------------------------------------>
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/PP1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ </h4>
+                <p>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ โรงพยาบาลพนมไพร จังหวัดร้อยเอ็ด </p>
+                <a href="assets/img/masonry-portfolio/PP1.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/PP2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ </h4>
+                <p>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ โรงพยาบาลพนมไพร จังหวัดร้อยเอ็ด </p>
+                <a href="assets/img/masonry-portfolio/PP2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/PP3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ </h4>
+                <p>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ โรงพยาบาลพนมไพร จังหวัดร้อยเอ็ด </p>
+                <a href="assets/img/masonry-portfolio/PP3.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/PP4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ </h4>
+                <p>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ โรงพยาบาลพนมไพร จังหวัดร้อยเอ็ด </p>
+                <a href="assets/img/masonry-portfolio/PP4.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/PP5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ </h4>
+                <p>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ โรงพยาบาลพนมไพร จังหวัดร้อยเอ็ด </p>
+                <a href="assets/img/masonry-portfolio/PP5.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/masonry-portfolio/PP6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ </h4>
+                <p>อบรมการใช้งาน Healthcare ให้กับเจ้าหน้าที่ โรงพยาบาลพนมไพร จังหวัดร้อยเอ็ด </p>
+                <a href="assets/img/masonry-portfolio/PP6.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <!---------------------------------------------------- 
+            #อบรมการใช้งานเจ้าหน้าที่
+            ------------------------------------------------------>
 
           </div><!-- End Portfolio Container -->
 

@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Blog - Active Bootstrap Template</title>
+  <title>Blog - P-Care</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -26,6 +26,7 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/blog.css" rel="stylesheet">
 </head>
 
 <body class="blog-page">
@@ -49,18 +50,13 @@
 
     <!-- Blog Posts 2 Section -->
     <section id="blog-posts-2" class="blog-posts-2 section">
-
       <div class="container">
-
         <div class="row gy-5">
-
           <div class="col-lg-4 col-md-6">
             <article>
-
               <div class="post-img">
-                <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/001.jpg" alt="" class="img-fluid">
               </div>
-
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><a href="blog-details.php">Sorts</a></li>
@@ -69,7 +65,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.php">Dolorum optio tempore voluptas dignissimos</a>
+                <a href="blog-details.php">ประเทศไทยสู่สังคมผู้สูงอายุ: ปัญหาและแนวทางรับมือ</a>
               </h2>
 
             </article>
@@ -134,12 +130,12 @@
         <div class="d-flex justify-content-center">
           <ul>
             <li><a href="#"><i class="bi bi-chevron-left"></i></a></li>
-            <li><a href="#">1</a></li>
-            <li><a href="#" class="active">2</a></li>
+            <li><a href="#" class="active">1</a></li>
+            <!-- <li><a href="#" >2</a></li>
             <li><a href="#">3</a></li>
             <li><a href="#">4</a></li>
             <li>...</li>
-            <li><a href="#">10</a></li>
+            <li><a href="#">10</a></li> -->
             <li><a href="#"><i class="bi bi-chevron-right"></i></a></li>
           </ul>
         </div>

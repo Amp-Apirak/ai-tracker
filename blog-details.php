@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Blog Details - Active Bootstrap Template</title>
+  <title>Blog Details - P-Care</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -59,73 +59,65 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/001.jpg" alt="" class="img-fluid">
                 </div>
 
-                <h2 class="title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h2>
+                <h2 class="title">ประเทศไทยสู่สังคมผู้สูงอายุ: ปัญหาและแนวทางรับมือ</h2>
 
                 <div class="meta-top">
                   <ul>
-                    <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.php">John Doe</a></li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.php"><time datetime="2020-01-01">Jan 1, 2022</time></a></li>
-                    <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-details.php">12 Comments</a></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.php">Administrator</a></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.php"><time datetime="2020-01-01">April 1, 2019</time></a></li>
+                    <!-- <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-details.php">12 Comments</a></li> -->
                   </ul>
                 </div><!-- End meta top -->
 
                 <div class="content">
                   <p>
-                    Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                    Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
+                    ปี 2565 ประเทศไทยเข้าสู่ สังคมสูงอายุอย่างสมบูรณ์ มีประชากรผู้สูงอายุถึง 12 ล้านคน (ร้อยละ 20 ของประชากรทั้งหมด) และคาดว่าปี 2580 จะเพิ่มเป็นร้อยละ 30 พร้อมความท้าทายจากจำนวนผู้สูงอายุที่อยู่อาศัยลำพังหรืออยู่กับผู้สูงอายุด้วยกันถึงร้อยละ 30
                   </p>
 
                   <p>
-                    Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.
+                    ปัญหาการหกล้มในผู้สูงอายุ: ภัยใกล้ตัว
+                    การพลัดตกหกล้มในผู้สูงอายุเป็นปัญหาใหญ่ที่นำไปสู่การเสียชีวิตหรือภาวะติดเตียง ซึ่งสร้างความสูญเสียทั้งระดับครอบครัวและชาติ ข้อมูลจากกรมควบคุมโรคเผยว่า 1 ใน 3 ของผู้สูงอายุหกล้มทุกปี โดย 65% เกิดในบ้าน และ 30% เกิดในห้องน้ำ สาเหตุหลักมาจากการลื่น สะดุด หรือก้าวพลาด รวมถึงบ้านที่ไม่มีสิ่งอำนวยความสะดวก เช่น ราวเกาะในห้องน้ำหรือส้วมแบบนั่งยอง
                   </p>
 
                   <blockquote>
                     <p>
-                      Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.
+                      สถิติที่น่าตกใจ:
                     </p>
                   </blockquote>
 
                   <p>
-                    Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
-                    Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque.
-                    Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.
-                  </p>
+                    ปี 2560 ผู้สูงอายุเสียชีวิตจากการล้ม 1,046 คน (เฉลี่ยวันละ 3 คน)
+                    มีผู้สูงอายุหกล้มกว่า 3 ล้านคน/ปี ใช้บริการรถฉุกเฉินเฉลี่ยวันละ 140 ครั้ง
+                    ผู้หญิงเสี่ยงหกล้มสูงกว่าผู้ชายถึง 1.6 เท่า
+                    แนวทางป้องกันการหกล้ม:
 
-                  <h3>Et quae iure vel ut odit alias.</h3>
+                  <h3>ปรับปรุงบ้าน:</h3>
                   <p>
-                    Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
-                    Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
-                    Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.
+                    จัดห้องน้ำใกล้ห้องนอน ติดตั้งราวจับในห้องน้ำ
+                    ใช้ส้วมแบบชักโครก พร้อมเก้าอี้นั่งอาบน้ำ
+                    พื้นบ้านควรเรียบ มีแผ่นกันลื่น และแบ่งพื้นที่เปียก-แห้ง
+                    มีแสงสว่างเพียงพอทั้งกลางวันและกลางคืน
+                    ดูแลชุมชน:
                   </p>
-                  <img src="assets/img/blog/blog-inside-post.jpg" class="img-fluid" alt="">
+                  <!-- <img src="assets/img/blog/blog-inside-post.jpg" class="img-fluid" alt=""> -->
 
-                  <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
+                  <!-- <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
                   <p>
                     Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
                     Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
-                  </p>
+                  </p> -->
                   <p>
-                    Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.
+                    เพื่อนบ้านหรือผู้ใหญ่บ้านควรดูแลสอบถามผู้สูงอายุในพื้นที่
+                    หากพบสิ่งผิดปกติ โทรแจ้ง 1669
+                    ร่วมกันลดความเสี่ยง:
+                    การป้องกันอุบัติเหตุจากการหกล้มไม่เพียงช่วยยกระดับคุณภาพชีวิตผู้สูงอายุ แต่ยังลดภาระต่อระบบสาธารณสุขและครอบครัวไทยในระยะยาว
                   </p>
 
                 </div><!-- End post content -->
 
-                <div class="meta-bottom">
-                  <i class="bi bi-folder"></i>
-                  <ul class="cats">
-                    <li><a href="#">Business</a></li>
-                  </ul>
-
-                  <i class="bi bi-tags"></i>
-                  <ul class="tags">
-                    <li><a href="#">Creative</a></li>
-                    <li><a href="#">Tips</a></li>
-                    <li><a href="#">Marketing</a></li>
-                  </ul>
-                </div><!-- End meta bottom -->
 
               </article>
 
@@ -279,7 +271,7 @@
 
               <div class="d-flex flex-column align-items-center">
                 <img src="assets/img/blog/blog-author.jpg" class="rounded-circle flex-shrink-0" alt="">
-                <h4>Jane Smith</h4>
+                <h4>Administrator</h4>
                 <div class="social-links">
                   <a href="https://x.com/#"><i class="bi bi-twitter-x"></i></a>
                   <a href="https://facebook.com/#"><i class="bi bi-facebook"></i></a>
@@ -294,68 +286,6 @@
               </div>
             </div><!--/Blog Author Widget -->
 
-            <!-- Search Widget -->
-            <div class="search-widget widget-item">
-
-              <h3 class="widget-title">Search</h3>
-              <form action="">
-                <input type="text">
-                <button type="submit" title="Search"><i class="bi bi-search"></i></button>
-              </form>
-
-            </div><!--/Search Widget -->
-
-            <!-- Recent Posts Widget -->
-            <div class="recent-posts-widget widget-item">
-
-              <h3 class="widget-title">Recent Posts</h3>
-
-              <div class="post-item">
-                <h4><a href="blog-details.php">Nihil blanditiis at in nihil autem</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div><!-- End recent post item-->
-
-              <div class="post-item">
-                <h4><a href="blog-details.php">Quidem autem et impedit</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div><!-- End recent post item-->
-
-              <div class="post-item">
-                <h4><a href="blog-details.php">Id quia et et ut maxime similique occaecati ut</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div><!-- End recent post item-->
-
-              <div class="post-item">
-                <h4><a href="blog-details.php">Laborum corporis quo dara net para</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div><!-- End recent post item-->
-
-              <div class="post-item">
-                <h4><a href="blog-details.php">Et dolores corrupti quae illo quod dolor</a></h4>
-                <time datetime="2020-01-01">Jan 1, 2020</time>
-              </div><!-- End recent post item-->
-
-            </div><!--/Recent Posts Widget -->
-
-            <!-- Tags Widget -->
-            <div class="tags-widget widget-item">
-
-              <h3 class="widget-title">Tags</h3>
-              <ul>
-                <li><a href="#">App</a></li>
-                <li><a href="#">IT</a></li>
-                <li><a href="#">Business</a></li>
-                <li><a href="#">Mac</a></li>
-                <li><a href="#">Design</a></li>
-                <li><a href="#">Office</a></li>
-                <li><a href="#">Creative</a></li>
-                <li><a href="#">Studio</a></li>
-                <li><a href="#">Smart</a></li>
-                <li><a href="#">Tips</a></li>
-                <li><a href="#">Marketing</a></li>
-              </ul>
-
-            </div><!--/Tags Widget -->
 
           </div>
 
