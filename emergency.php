@@ -420,6 +420,67 @@
     </section>
     <!--  Section: section6 -->
 
+    <!-- Section7 -->
+    <section id="section7" class="section7 section">
+
+      <div class="container">
+        <!-- Section Title with Image -->
+        <div class="section-header">
+          <div class="row align-items-center">
+            <div class="col-lg-6">
+              <div class="monitoring-image">
+                <img src="assets/img/carecenter.png" alt="บริการเฝ้าระวังเหตุฉุกเฉิน">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="section-title">
+                <h2>24/7 Care Center</h2>
+                <p>ศูนย์เฝ้าระวังเหตุฉุกเฉินให้บริการ 24 ชั่วโมง</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Monitoring Grid -->
+        <div class="monitoring-grid">
+          <div class="monitoring-card mirror">
+            <h3>Emergency mirror</h3>
+            <ul class="status-list">
+              <li class="status-item">
+                <span class="status-icon active"></span>
+                <span>ประสานงาน ไปยังเจ้าหน้าที่ Care Center ของหน่วยงานในกรณีที่ไม่มีการรับเคส ภายใน 2 นาที</span>
+              </li>
+              <li class="status-item">
+                <span class="status-icon active"></span>
+                <span>ประสานงาน ไปยังเจ้าหน้าที่ EMS ของหน่วยงานในกรณีที่ไม่มีการรับเคส ภายใน 2 นาที</span>
+              </li>
+              <li class="status-item">
+                <span class="status-icon active"></span>
+                <span>ประสานงาน ไปยังเจ้าหน้าที่ Care Center ของหน่วยงานในกรณีที่ไม่มีการเปิดเคส ภายใน 15 นาที</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="monitoring-card device">
+            <h3>Device Monitoring</h3>
+            <div class="status-alert">
+              <div class="pulse-indicator"></div>
+              <p>ส่งข้อมูลสถานะอุปกรณ์ Online และ Offline ประจำวันในช่วงเวลา เวลา 08.00 - 09.00 น.</p>
+            </div>
+          </div>
+
+          <div class="monitoring-card call">
+            <h3>Call Center</h3>
+            <div class="call-status">
+              <i class="bi bi-telephone-fill"></i>
+              <p>ตอบปัญหาการใช้งานอุปกรณ์/แพลตฟอร์ม และอื่นๆ</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /Section: section7 -->
+
     <!--  Section: section3 -->
     <section id="section3" class="section3 section">
       <div class="container">
