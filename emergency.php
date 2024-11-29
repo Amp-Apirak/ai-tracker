@@ -38,7 +38,7 @@
 
   <main class="main">
 
-    <!--  Section: section1 -->
+    <!--  Section: section1 ความเสี่ยงในการพลัดตกหกล้ม -->
     <section id="section1" class="section1 section">
       <div class="container">
         <div class="row align-items-center justify-content-between">
@@ -100,9 +100,9 @@
         </div>
       </div>
     </section>
-    <!-- /Section: section1 -->
+    <!-- /Section: section1 ความเสี่ยงในการพลัดตกหกล้ม-->
 
-    <!-- Stats Section2 -->
+    <!-- Stats Section2 Ai Tracker-->
     <section id="section2" class="section2 section light-background">
       <div class="container">
         <div class="row gy-4 justify-content-center">
@@ -154,9 +154,9 @@
 
       </div>
     </section>
-    <!-- /Stats Section2 -->
+    <!-- /Stats Section2 Ai Tracker-->
 
-    <!--  Section: section5 -->
+    <!--  Section: section5 ฟีเจอร์การใช้งาน-->
     <section id="section5" class="section5 section">
       <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
@@ -292,9 +292,9 @@
         </div>
       </div>
     </section>
-    <!--  Section: section5 -->
+    <!--  Section: section5 ฟีเจอร์การใช้งาน-->
 
-    <!--  Section section4 -->
+    <!--  Section section4 ระบบเฝ้าระวังเหตุฉุกเฉิน-->
     <section id="section4" class="section4 section">
       <div class="container">
         <div class="content">
@@ -332,9 +332,9 @@
         </div>
       </div>
     </section>
-    <!-- /Section section4 -->
+    <!-- /Section section4 ระบบเฝ้าระวังเหตุฉุกเฉิน-->
 
-    <!--  Section: section6 -->
+    <!--  Section: section6 การทำงานของอุปกรณ์-->
     <section id="section6" class="section6 section">
       <div class="container">
         <div class="section-title text-center" data-aos="fade-up">
@@ -418,9 +418,9 @@
         </div>
       </div>
     </section>
-    <!--  Section: section6 -->
+    <!--  Section: section6 การทำงานของอุปกรณ์-->
 
-    <!-- Section7 -->
+    <!-- Section7 24/7 Care Center-->
     <section id="section7" class="section7 section">
 
       <div class="container">
@@ -479,9 +479,9 @@
         </div>
       </div>
     </section>
-    <!-- /Section: section7 -->
+    <!-- /Section: section7  24/7 Care Center-->
 
-    <!--  Section: section3 -->
+    <!--  Section: section3 การแบ่งกลุ่มการใช้งานอุปกรณ์ -->
     <section id="section3" class="section3 section">
       <div class="container">
         <!-- Section Title -->
@@ -533,7 +533,7 @@
         </div>
       </div>
     </section>
-    <!-- /Section: section3 -->
+    <!-- /Section: section3 การแบ่งกลุ่มการใช้งานอุปกรณ์ -->
 
 
 
