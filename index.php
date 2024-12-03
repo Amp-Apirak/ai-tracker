@@ -36,6 +36,18 @@
   <?php include 'includes/header.php'; ?>
 
   <main class="main">
+
+
+    <!--  Section banner -->
+    <section id="banner" class="banner section">
+      <div class="container-fluid">
+        <img src="assets/img/brand.jpg" alt="ภาพการดูแล" class="">
+      </div>
+    </section>
+    <!-- /Sectio banner -->
+
+
+
     <!--  Section: Information -->
     <section id="information" class="information section">
       <div class="container">
@@ -104,36 +116,12 @@
     <!-- /Section: Information -->
 
 
-    <!--  Section Video -->
-    <section id="emergency-system" class="emergency-system section">
+    <!--  Section  -->
+    <section id="" class=" section">
       <div class="container">
-        <div class="content">
-          <div class="row">
-            <div class="col-12 text-center">
-              <div class="px-3 mt-4">
-                <h2 class="content-title">
-                  ระบบเฝ้าระวังเหตุฉุกเฉิน
-                </h2>
-                <p>
-                  ตัวอย่างเหตุการณ์จำลอง การใช้งานอุปกรณ์ AI Tracker สำหรับกดขอความช่วยเหลือไปยังศูนย์รับแจ้งเหตุของหน่วยงานในพื้นที่ <br>
-                  เมื่อเกิดเหตุการณ์ฉุกเฉินในผู้สูงอายุเป็นผู้ป่วยติดเตียง โดยมีญาติหรือคนในครอบครัวให้การดูแล
-                </p>
-              </div>
-              <div class="video-wrap">
-                <iframe
-                  class="full-width-video"
-                  src="https://drive.google.com/file/d/1Ud5bmwLtgVSI3MbZTqeIt6Th8vNAgnbN/preview"
-                  frameborder="0"
-                  allow="autoplay; encrypted-media"
-                  allowfullscreen>
-                </iframe>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
-    <!-- /Section Video -->
+    <!-- /Section  -->
 
 
     <!-- Section Our-service-->
