@@ -40,8 +40,14 @@
 
     <!--  Section banner -->
     <section id="banner" class="banner section">
+      <div class="container-fluid mb-2">
+        <img src="assets/img/brand-1.jpg" alt="ภาพการดูแล" class="">
+      </div>
+      <div class="container-fluid mb-2">
+        <img src="assets/img/brand3.jpg" alt="ภาพการดูแล" class="">
+      </div>
       <div class="container-fluid">
-        <img src="assets/img/brand.jpg" alt="ภาพการดูแล" class="">
+        <img src="assets/img/brand2.jpg" alt="ภาพการดูแล" class="">
       </div>
     </section>
     <!-- /Sectio banner -->
@@ -81,19 +87,16 @@
               </script>
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <img src="assets/img/care/care1.jpg" alt="ภาพการดูแล" class="img-fluid">
+                  <img src="assets/img/ems_er/emer1.png" alt="ภาพอุบัติเหตุจากการพลักตกหกล้ม" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/care/care3.jpg" alt="ภาพการดูแล" class="img-fluid">
+                  <img src="assets/img/ems_er/emer3.png" alt="ภาพอุบัติเหตุจากการพลักตกหกล้ม" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/care/care4.jpg" alt="ภาพการดูแล" class="img-fluid">
+                  <img src="assets/img/ems_er/emer2.png" alt="ภาพอุบัติเหตุจากการพลักตกหกล้ม" class="img-fluid">
                 </div>
                 <div class="swiper-slide">
-                  <img src="assets/img/care/care5.jpg" alt="ภาพการดูแล" class="img-fluid">
-                </div>
-                <div class="swiper-slide">
-                  <img src="assets/img/care/care2.jpg" alt="ภาพการดูแล" class="img-fluid">
+                  <img src="assets/img/ems_er/emer5.png" alt="ภาพอุบัติเหตุจากการพลักตกหกล้ม" class="img-fluid">
                 </div>
               </div>
               <div class="swiper-pagination"></div>

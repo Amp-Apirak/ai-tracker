@@ -716,6 +716,28 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Section Banner
+--------------------------------------------------------------*/
+.banner {
+  .swiper-pagination {
+    position: absolute;
+    bottom: 30px;
+  }
+
+  .swiper-pagination .swiper-pagination-bullet {
+    margin: 0 5px;
+    background: #ffffff;
+    opacity: 0.3;
+  }
+
+  .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background: var(--accent-color);
+    opacity: 1;
+  }
+
+}
+
+/*--------------------------------------------------------------
 # Information Section
 --------------------------------------------------------------*/
 .information {
